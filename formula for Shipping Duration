@@ -1,0 +1,1 @@
+DATEDIFF('day', [Order Date], [Ship Date])
